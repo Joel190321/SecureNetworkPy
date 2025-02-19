@@ -24,21 +24,25 @@ Asegúrate de cumplir con los siguientes requisitos antes de ejecutar el script:
 
 ```bash
 pip install requests tkinter
+```
 
 ##🔧 Instalación y Uso
 1️⃣ Clona este repositorio
+
 ```bash
 git clone https://github.com/Joel190321/SecureNetworkPy.git
 cd SecureNetworkPy
+```
 
 2️⃣ Ejecuta el script
 ```bash
 python secure_network.py
+```
 
 📌 El programa analizará la seguridad de tu conexión y mostrará una alerta o un mensaje de éxito en caso de que sea segura
 
 
-🛠️ Estructura del Código
+#🛠️ Estructura del Código
 El script está organizado en funciones clave para cada verificación de seguridad:
 
 🔹 check_internet_connection(): Verifica si hay acceso a Internet.
@@ -49,7 +53,7 @@ El script está organizado en funciones clave para cada verificación de segurid
 🔹 show_congratulations(): Muestra un mensaje de éxito si la conexión es segura.
 🔹 main(): Ejecuta todas las verificaciones y muestra el resultado final.
 
-🏗️ Contribuciones
+#🏗️ Contribuciones
 🚀 ¡Este proyecto es open-source y cualquier contribución es bienvenida!
 
 Si deseas mejorar el código, sigue estos pasos:
